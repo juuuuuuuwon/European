@@ -83,7 +83,7 @@ body{
 .text-center{text-align: center;}
 .text-justify{text-align:justify;}
 .text-end{text-align:end;}
-.text-gray{color: rgb(51, 51, 51);}
+.text-gray{color: rgb(121, 121, 121);}
 
 .text-mainTitle{
     font-family:'YunChorokwoosanEoriniMinguk';
@@ -108,6 +108,13 @@ body{
     font-weight:90;
     font-size: 1.5rem;
 }
+
+.text-subTitle4{
+    font-family:'YunChorokwoosanEoriniMinguk';
+    font-weight:80;
+    font-size: 1.2rem;
+}
+
 
 .text-normal{
     font-family:'BonmyeongjoSourceHanSerif';
